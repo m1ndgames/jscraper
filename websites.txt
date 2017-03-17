@@ -1,0 +1,4 @@
+http://google.de
+http://spiegel.de
+http://bild.de
+http://ntv.de
